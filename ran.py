@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("c").o()
+    __import__("c")menu.()
 except Exception as e:
     exit(str(e))
