@@ -1,5 +1,9 @@
 import os, sys
+
 try:
-    __import__("c")o.()
+
+    __import__("ak").o()
+
 except Exception as e:
+
     exit(str(e))
