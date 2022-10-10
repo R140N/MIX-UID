@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("ak").o()
+    __import__("c").o()
 
 except Exception as e:
 
